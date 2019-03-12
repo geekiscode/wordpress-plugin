@@ -1,0 +1,18 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.toplevel_page_processor-payment-page .wp-menu-image img {
+	padding: 5px 0 0 !important;
+	width: 65%;    
+}
+.processor_payment_setting h2.title {
+    margin: 0;
+}
+.processor_payment_setting .form-table th {
+    padding: 10px 0px 15px 0;
+}
+.processor_payment_setting .form-table td {
+    padding: 4px 10px 10px;
+}
